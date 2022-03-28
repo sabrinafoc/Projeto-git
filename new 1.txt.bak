@@ -21,4 +21,3 @@ rm_professor int primary key,
 nome_professor varchar (50)
 telefone_professor varchar(50)
 )
-slect*from aluno
