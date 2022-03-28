@@ -1,0 +1,23 @@
+crete database escola 
+use escola 
+
+1 git init 
+2 git status 
+3 git add .
+5 git commit-m "primeiro projeto"
+69 git status 
+7 git log 
+
+create database escola 
+use escola
+
+create table aluno (
+ra_aluno int primary kay,
+nome_aluno varchar (50),
+telefone_aluno  varchar (50)
+)
+create table professor(
+rm_professor int primary key,
+nome_professor varchar (50)
+telefone_professor varchar(50)
+)
