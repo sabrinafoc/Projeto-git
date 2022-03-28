@@ -1,0 +1,9 @@
+create database escola 
+use escola 
+
+1 git init 
+2 git status 
+3 git add .
+5 git commit-m "primeiro projeto"
+69 git status 
+7 git log 
